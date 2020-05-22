@@ -1,7 +1,7 @@
 name: Build EPG
 on:
   schedule:
-    - cron: '00 06 * * *'
+    - cron: 00 06 * * *
       
 env:
   TZ: Asia/Shanghai
