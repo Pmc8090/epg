@@ -29,8 +29,3 @@ jobs:
     - name: Update epg
       run: |
         python epg.py
-        
-    - name: commit
-      run: |
-        git add .
-        git commit -m "update"
