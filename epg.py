@@ -11,9 +11,10 @@ def gettime(timestamp):
 
 TIME_ZONE=" +0800"
 
-TVs= {'1':'cctv1'}
+TVs= {'1':'cctv1','2':'cctv2','3':'cctv3','4':'cctv4','5':'cctv5','6':'cctv5plus','7':'cctv6','8':'cctv7','9':'cctv8','10':'cctvjilu','11':'cctv10','12':'cctv11','13':'cctv12','14':'cctv13','15':'cctvchild','16':'cctv15','17':'cctv17','27':'hunan','28':'zhejiang','29':'jiangsu','30':'btv1','31':'dongfang','32':'anhui','33':'guangdong','34':'shenzhen','36':'liaoning','37':'travel','38':'shandong','39':'tianjin','40':'chongqing','41':'dongnan','44':'guizhou','45':'hebei','46':'heilongjiang','47':'henan','48':'hubei','50':'jiangxi','51':'jilin','56':'sichuan','106':'cctv4k'}
 
-TVname={'cctv1':'CCTV1'}
+TVname={'cctv1':'CCTV1','cctv2':'CCTV2','cctv3':'CCTV3','cctv4':'CCTV4','cctv5':'CCTV5','cctv5plus':'CCTV5+','cctv6':'CCTV6','cctv7':'CCTV7','cctv8':'CCTV8','cctvjilu':'CCTV9','cctv10':'CCTV10','cctv11':'CCTV11','cctv12':'CCTV12','cctv13':'CCTV13','cctvchild':'CCTV14','cctv15':'CCTV15','cctv17':'CCTV17','cctv4k':'CCTV4K','hunan':'湖南卫视','zhejiang':'浙江卫视','jiangsu':'江苏卫视','btv1':'北京卫视','dongfang':'东方卫视','anhui':'安徽卫视','guangdong':'广东卫视','shenzhen':'深圳卫视','liaoning':'辽宁卫视','travel':'海南卫视','shandong':'山东卫视','tianjin':'天津卫视','chongqing':'重庆卫视','dongnan':'东南卫视','guizhou':'贵州卫视','hebei':'河北卫视','heilongjiang':'黑龙江卫视','henan':'河南卫视','hubei':'湖北卫视','jiangxi':'江西卫视','jilin':'吉林卫视','sichuan':'四川卫视'}
+
 
 if __name__=="__main__":
     tvdoc=Document()
