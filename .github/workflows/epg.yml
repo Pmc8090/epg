@@ -1,8 +1,6 @@
 name: Build EPG
+
 on:
-  push:
-    branches: 
-      - beta
   schedule:
     - cron: 21 07 * * *
       
