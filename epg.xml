@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="epg" generator-info-url="1234567@qq.com">
  <channel id="1">
-  <display-name lang="zh">cctv1</display-name>
+  <display-name lang="zh">CCTV1</display-name>
  </channel>
  <channel id="2">
   <display-name lang="zh">CCTV2</display-name>
