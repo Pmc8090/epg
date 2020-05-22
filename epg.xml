@@ -3,220 +3,220 @@
  <channel id="1">
   <display-name lang="zh">CCTV1</display-name>
  </channel>
- <programme channel="1" start="20200521161615 +0800" stop="20200521165300 +0800">
+ <programme channel="1" start="20200522001615 +0800" stop="20200522005300 +0800">
   <title lang="zh">动物世界-2020-63</title>
  </programme>
- <programme channel="1" start="20200521165300 +0800" stop="20200521174300 +0800">
+ <programme channel="1" start="20200522005300 +0800" stop="20200522014300 +0800">
   <title lang="zh">情满四合院第3集</title>
  </programme>
- <programme channel="1" start="20200521174300 +0800" stop="20200521183100 +0800">
+ <programme channel="1" start="20200522014300 +0800" stop="20200522023100 +0800">
   <title lang="zh">情满四合院第4集</title>
  </programme>
- <programme channel="1" start="20200521183100 +0800" stop="20200521183700 +0800">
+ <programme channel="1" start="20200522023100 +0800" stop="20200522023700 +0800">
   <title lang="zh">生活提示</title>
  </programme>
- <programme channel="1" start="20200521183700 +0800" stop="20200521190700 +0800">
+ <programme channel="1" start="20200522023700 +0800" stop="20200522030700 +0800">
   <title lang="zh">晚间新闻</title>
  </programme>
- <programme channel="1" start="20200521190700 +0800" stop="20200521193400 +0800">
+ <programme channel="1" start="20200522030700 +0800" stop="20200522033400 +0800">
   <title lang="zh">精彩一刻-2019-23航拍中国第二季内蒙古城建</title>
  </programme>
- <programme channel="1" start="20200521193400 +0800" stop="20200521202400 +0800">
+ <programme channel="1" start="20200522033400 +0800" stop="20200522042400 +0800">
   <title lang="zh">特别呈现2020-123</title>
  </programme>
- <programme channel="1" start="20200521202400 +0800" stop="20200521205200 +0800">
+ <programme channel="1" start="20200522042400 +0800" stop="20200522045200 +0800">
   <title lang="zh">今日说法-2020-142</title>
  </programme>
- <programme channel="1" start="20200521205200 +0800" stop="20200521212700 +0800">
+ <programme channel="1" start="20200522045200 +0800" stop="20200522052700 +0800">
   <title lang="zh">新闻联播</title>
  </programme>
- <programme channel="1" start="20200521212700 +0800" stop="20200521220000 +0800">
+ <programme channel="1" start="20200522052700 +0800" stop="20200522060000 +0800">
   <title lang="zh">人与自然-2020-80</title>
  </programme>
- <programme channel="1" start="20200521220000 +0800" stop="20200522000000 +0800">
+ <programme channel="1" start="20200522060000 +0800" stop="20200522080000 +0800">
   <title lang="zh">朝闻天下</title>
  </programme>
- <programme channel="1" start="20200522000000 +0800" stop="20200522040000 +0800">
-  <title lang="zh">新闻直播间</title>
+ <programme channel="1" start="20200522080000 +0800" stop="20200522120000 +0800">
+  <title lang="zh">新闻直播间-十三届全国人大三次会议开幕会</title>
  </programme>
- <programme channel="1" start="20200522040000 +0800" stop="20200522043530 +0800">
+ <programme channel="1" start="20200522120000 +0800" stop="20200522123530 +0800">
   <title lang="zh">新闻30分</title>
  </programme>
- <programme channel="1" start="20200522043530 +0800" stop="20200522051600 +0800">
+ <programme channel="1" start="20200522123530 +0800" stop="20200522131600 +0800">
   <title lang="zh">今日说法-2020-143</title>
  </programme>
- <programme channel="1" start="20200522051600 +0800" stop="20200522060400 +0800">
+ <programme channel="1" start="20200522131600 +0800" stop="20200522140400 +0800">
   <title lang="zh">有你才有家第46集</title>
  </programme>
- <programme channel="1" start="20200522060400 +0800" stop="20200522065405 +0800">
+ <programme channel="1" start="20200522140400 +0800" stop="20200522145405 +0800">
   <title lang="zh">有你才有家第47集</title>
  </programme>
- <programme channel="1" start="20200522065405 +0800" stop="20200522074335 +0800">
+ <programme channel="1" start="20200522145405 +0800" stop="20200522154335 +0800">
   <title lang="zh">有你才有家第48集</title>
  </programme>
- <programme channel="1" start="20200522074335 +0800" stop="20200522083745 +0800">
+ <programme channel="1" start="20200522154335 +0800" stop="20200522163745 +0800">
   <title lang="zh">有你才有家第49集</title>
  </programme>
- <programme channel="1" start="20200522083745 +0800" stop="20200522091045 +0800">
+ <programme channel="1" start="20200522163745 +0800" stop="20200522171045 +0800">
   <title lang="zh">第一动画乐园-2020-350</title>
  </programme>
- <programme channel="1" start="20200522091045 +0800" stop="20200522092045 +0800">
+ <programme channel="1" start="20200522171045 +0800" stop="20200522172045 +0800">
   <title lang="zh">第一动画乐园-2020-351</title>
  </programme>
- <programme channel="1" start="20200522092045 +0800" stop="20200522092945 +0800">
+ <programme channel="1" start="20200522172045 +0800" stop="20200522172945 +0800">
   <title lang="zh">第一动画乐园-2020-352</title>
  </programme>
- <programme channel="1" start="20200522092945 +0800" stop="20200522095345 +0800">
+ <programme channel="1" start="20200522172945 +0800" stop="20200522175345 +0800">
   <title lang="zh">第一动画乐园-2020-353</title>
  </programme>
- <programme channel="1" start="20200522095345 +0800" stop="20200522104115 +0800">
+ <programme channel="1" start="20200522175345 +0800" stop="20200522184115 +0800">
   <title lang="zh">第一动画乐园-2020-354</title>
  </programme>
- <programme channel="1" start="20200522104115 +0800" stop="20200522104715 +0800">
+ <programme channel="1" start="20200522184115 +0800" stop="20200522184715 +0800">
   <title lang="zh">第一动画乐园（书法）-2020-131</title>
  </programme>
- <programme channel="1" start="20200522104715 +0800" stop="20200522105230 +0800">
+ <programme channel="1" start="20200522184715 +0800" stop="20200522185230 +0800">
   <title lang="zh">第一动画乐园-2020-281</title>
  </programme>
- <programme channel="1" start="20200522105230 +0800" stop="20200522110000 +0800">
+ <programme channel="1" start="20200522185230 +0800" stop="20200522190000 +0800">
   <title lang="zh">2020秘境之眼-135</title>
  </programme>
- <programme channel="1" start="20200522110000 +0800" stop="20200522113950 +0800">
+ <programme channel="1" start="20200522190000 +0800" stop="20200522193950 +0800">
   <title lang="zh">新闻联播</title>
  </programme>
- <programme channel="1" start="20200522113950 +0800" stop="20200522120600 +0800">
+ <programme channel="1" start="20200522193950 +0800" stop="20200522200600 +0800">
   <title lang="zh">焦点访谈</title>
  </programme>
- <programme channel="1" start="20200522120600 +0800" stop="20200522130000 +0800">
+ <programme channel="1" start="20200522200600 +0800" stop="20200522210000 +0800">
   <title lang="zh">决战脱贫在今朝-2</title>
  </programme>
- <programme channel="1" start="20200522130000 +0800" stop="20200522135430 +0800">
+ <programme channel="1" start="20200522210000 +0800" stop="20200522215430 +0800">
   <title lang="zh">《航拍中国》第三季-《一同飞越》-2</title>
  </programme>
- <programme channel="1" start="20200522135430 +0800" stop="20200522140000 +0800">
+ <programme channel="1" start="20200522215430 +0800" stop="20200522220000 +0800">
   <title lang="zh">2019秘境之眼-203</title>
  </programme>
- <programme channel="1" start="20200522140000 +0800" stop="20200522143545 +0800">
+ <programme channel="1" start="20200522220000 +0800" stop="20200522223545 +0800">
   <title lang="zh">晚间新闻</title>
  </programme>
- <programme channel="1" start="20200522143545 +0800" stop="20200523000000 +0800">
+ <programme channel="1" start="20200522223545 +0800" stop="20200523000000 +0800">
   <title lang="zh">星光大道-2020-24</title>
  </programme>
- <programme channel="1" start="20200522160415 +0800" stop="20200522165700 +0800">
+ <programme channel="1" start="20200523000415 +0800" stop="20200523005700 +0800">
   <title lang="zh">情满四合院第5集</title>
  </programme>
- <programme channel="1" start="20200522165700 +0800" stop="20200522174700 +0800">
+ <programme channel="1" start="20200523005700 +0800" stop="20200523014700 +0800">
   <title lang="zh">情满四合院第6集</title>
  </programme>
- <programme channel="1" start="20200522174700 +0800" stop="20200522181900 +0800">
+ <programme channel="1" start="20200523014700 +0800" stop="20200523021900 +0800">
   <title lang="zh">动物世界-2020-62</title>
  </programme>
- <programme channel="1" start="20200522181900 +0800" stop="20200522182500 +0800">
+ <programme channel="1" start="20200523021900 +0800" stop="20200523022500 +0800">
   <title lang="zh">生活提示</title>
  </programme>
- <programme channel="1" start="20200522182500 +0800" stop="20200522185700 +0800">
+ <programme channel="1" start="20200523022500 +0800" stop="20200523025700 +0800">
   <title lang="zh">晚间新闻</title>
  </programme>
- <programme channel="1" start="20200522185700 +0800" stop="20200522192400 +0800">
+ <programme channel="1" start="20200523025700 +0800" stop="20200523032400 +0800">
   <title lang="zh">人与自然-2020-80</title>
  </programme>
- <programme channel="1" start="20200522192400 +0800" stop="20200522193900 +0800">
+ <programme channel="1" start="20200523032400 +0800" stop="20200523033900 +0800">
   <title lang="zh">精彩一刻-2019-22航拍中国第二季内蒙古林</title>
  </programme>
- <programme channel="1" start="20200522193900 +0800" stop="20200522202900 +0800">
+ <programme channel="1" start="20200523033900 +0800" stop="20200523042900 +0800">
   <title lang="zh">特别呈现2020-124</title>
  </programme>
- <programme channel="1" start="20200522202900 +0800" stop="20200522205700 +0800">
+ <programme channel="1" start="20200523042900 +0800" stop="20200523045700 +0800">
   <title lang="zh">今日说法-2020-143</title>
  </programme>
- <programme channel="1" start="20200522205700 +0800" stop="20200522212700 +0800">
+ <programme channel="1" start="20200523045700 +0800" stop="20200523052700 +0800">
   <title lang="zh">新闻联播</title>
  </programme>
- <programme channel="1" start="20200522212700 +0800" stop="20200522220000 +0800">
+ <programme channel="1" start="20200523052700 +0800" stop="20200523060000 +0800">
   <title lang="zh">人与自然-2020-81</title>
  </programme>
- <programme channel="1" start="20200522220000 +0800" stop="20200523003830 +0800">
+ <programme channel="1" start="20200523060000 +0800" stop="20200523083830 +0800">
   <title lang="zh">朝闻天下</title>
  </programme>
- <programme channel="1" start="20200523003830 +0800" stop="20200523010930 +0800">
+ <programme channel="1" start="20200523083830 +0800" stop="20200523090930 +0800">
   <title lang="zh">精彩一刻-2019-105航拍中国内蒙古27分</title>
  </programme>
- <programme channel="1" start="20200523010930 +0800" stop="20200523015615 +0800">
+ <programme channel="1" start="20200523090930 +0800" stop="20200523095615 +0800">
   <title lang="zh">伟大的转折26/38</title>
  </programme>
- <programme channel="1" start="20200523015615 +0800" stop="20200523024445 +0800">
+ <programme channel="1" start="20200523095615 +0800" stop="20200523104445 +0800">
   <title lang="zh">伟大的转折27/38</title>
  </programme>
- <programme channel="1" start="20200523024445 +0800" stop="20200523033330 +0800">
+ <programme channel="1" start="20200523104445 +0800" stop="20200523113330 +0800">
   <title lang="zh">伟大的转折28/38</title>
  </programme>
- <programme channel="1" start="20200523033330 +0800" stop="20200523035315 +0800">
+ <programme channel="1" start="20200523113330 +0800" stop="20200523115315 +0800">
   <title lang="zh">精彩一刻-2019-51航拍中国第二季江苏水建筑</title>
  </programme>
- <programme channel="1" start="20200523035315 +0800" stop="20200523040000 +0800">
+ <programme channel="1" start="20200523115315 +0800" stop="20200523120000 +0800">
   <title lang="zh">2019秘境之眼-204</title>
  </programme>
- <programme channel="1" start="20200523040000 +0800" stop="20200523043530 +0800">
+ <programme channel="1" start="20200523120000 +0800" stop="20200523123530 +0800">
   <title lang="zh">新闻30分</title>
  </programme>
- <programme channel="1" start="20200523043530 +0800" stop="20200523051500 +0800">
+ <programme channel="1" start="20200523123530 +0800" stop="20200523131500 +0800">
   <title lang="zh">今日说法-2020-144</title>
  </programme>
- <programme channel="1" start="20200523051500 +0800" stop="20200523060300 +0800">
+ <programme channel="1" start="20200523131500 +0800" stop="20200523140300 +0800">
   <title lang="zh">有你才有家50/50</title>
  </programme>
- <programme channel="1" start="20200523060300 +0800" stop="20200523065305 +0800">
+ <programme channel="1" start="20200523140300 +0800" stop="20200523145305 +0800">
   <title lang="zh">一诺无悔1/31</title>
  </programme>
- <programme channel="1" start="20200523065305 +0800" stop="20200523074235 +0800">
+ <programme channel="1" start="20200523145305 +0800" stop="20200523154235 +0800">
   <title lang="zh">一诺无悔2/31</title>
  </programme>
- <programme channel="1" start="20200523074235 +0800" stop="20200523083715 +0800">
+ <programme channel="1" start="20200523154235 +0800" stop="20200523163715 +0800">
   <title lang="zh">一诺无悔3/31</title>
  </programme>
- <programme channel="1" start="20200523083715 +0800" stop="20200523091015 +0800">
+ <programme channel="1" start="20200523163715 +0800" stop="20200523171015 +0800">
   <title lang="zh">第一动画乐园-2020-355</title>
  </programme>
- <programme channel="1" start="20200523091015 +0800" stop="20200523092915 +0800">
+ <programme channel="1" start="20200523171015 +0800" stop="20200523172915 +0800">
   <title lang="zh">第一动画乐园-2020-356</title>
  </programme>
- <programme channel="1" start="20200523092915 +0800" stop="20200523095345 +0800">
+ <programme channel="1" start="20200523172915 +0800" stop="20200523175345 +0800">
   <title lang="zh">第一动画乐园-2020-357</title>
  </programme>
- <programme channel="1" start="20200523095345 +0800" stop="20200523104045 +0800">
+ <programme channel="1" start="20200523175345 +0800" stop="20200523184045 +0800">
   <title lang="zh">第一动画乐园-2020-358</title>
  </programme>
- <programme channel="1" start="20200523104045 +0800" stop="20200523104645 +0800">
+ <programme channel="1" start="20200523184045 +0800" stop="20200523184645 +0800">
   <title lang="zh">第一动画乐园（书法）-2020-132</title>
  </programme>
- <programme channel="1" start="20200523104645 +0800" stop="20200523105230 +0800">
+ <programme channel="1" start="20200523184645 +0800" stop="20200523185230 +0800">
   <title lang="zh">第一动画乐园-2020-281</title>
  </programme>
- <programme channel="1" start="20200523105230 +0800" stop="20200523110000 +0800">
+ <programme channel="1" start="20200523185230 +0800" stop="20200523190000 +0800">
   <title lang="zh">2020秘境之眼-136</title>
  </programme>
- <programme channel="1" start="20200523110000 +0800" stop="20200523114010 +0800">
+ <programme channel="1" start="20200523190000 +0800" stop="20200523194010 +0800">
   <title lang="zh">新闻联播</title>
  </programme>
- <programme channel="1" start="20200523114010 +0800" stop="20200523120600 +0800">
+ <programme channel="1" start="20200523194010 +0800" stop="20200523200600 +0800">
   <title lang="zh">焦点访谈</title>
  </programme>
- <programme channel="1" start="20200523120600 +0800" stop="20200523130000 +0800">
+ <programme channel="1" start="20200523200600 +0800" stop="20200523210000 +0800">
   <title lang="zh">决战脱贫在今朝-3</title>
  </programme>
- <programme channel="1" start="20200523130000 +0800" stop="20200523135430 +0800">
+ <programme channel="1" start="20200523210000 +0800" stop="20200523215430 +0800">
   <title lang="zh">《航拍中国》第三季-《一同飞越》-3</title>
  </programme>
- <programme channel="1" start="20200523135430 +0800" stop="20200523140000 +0800">
+ <programme channel="1" start="20200523215430 +0800" stop="20200523220000 +0800">
   <title lang="zh">2019秘境之眼-205</title>
  </programme>
- <programme channel="1" start="20200523140000 +0800" stop="20200523143545 +0800">
+ <programme channel="1" start="20200523220000 +0800" stop="20200523223545 +0800">
   <title lang="zh">晚间新闻</title>
  </programme>
- <programme channel="1" start="20200523143545 +0800" stop="20200523153015 +0800">
+ <programme channel="1" start="20200523223545 +0800" stop="20200523233015 +0800">
   <title lang="zh">开讲啦-2020-8</title>
  </programme>
- <programme channel="1" start="20200523153015 +0800" stop="20200524000000 +0800">
+ <programme channel="1" start="20200523233015 +0800" stop="20200524000000 +0800">
   <title lang="zh">情满四合院7/40</title>
  </programme>
 </tv>
