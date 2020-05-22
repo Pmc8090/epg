@@ -29,3 +29,10 @@ jobs:
     - name: Update epg
       run: |
         python epg.py
+        
+    - name: commit
+      run: |
+        git config --global user.email "zhujife@gmail.com"
+        git config --global user.name "sam white"
+        git add .
+        git commit -m "update"
