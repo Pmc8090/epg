@@ -1,7 +1,7 @@
 name: Build EPG
 on:
   schedule:
-    - cron: 30 06 * * *
+    - cron: 50 06 * * *
       
 env:
   TZ: Asia/Shanghai
@@ -25,13 +25,8 @@ jobs:
         
     - name: commit
       run: |
-        git branch newbranch 
-        git checkout newbranch
         git config --global user.email "zhujife@gmail.com"
         git config --global user.name "sam white"
         git add .
-        git commit -m "Update epg"
-        git checkout master 
-        git merge newbranch  
-        git push -u origin master
-        git branch -D newbranch
+        git commit -m "Update epg" 
+        git push origin master
