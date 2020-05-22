@@ -36,3 +36,4 @@ jobs:
         git config --global user.name "sam white"
         git add .
         git commit -m "update"
+        git push origin master
