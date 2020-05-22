@@ -1,8 +1,6 @@
 #coding:utf-8
-#import Base,tools,sys,re
 import re,time,datetime,urllib.request,json
 from xml.dom.minidom import Document
-
 
 def gettime(timestamp):
     time_local = time.localtime(timestamp)
@@ -18,26 +16,24 @@ TVname={'cctv1':'CCTV1','cctv2':'CCTV2','cctv3':'CCTV3','cctv4':'CCTV4','cctv5':
 
 if __name__=="__main__":
     tvdoc=Document()
-    ###tv根节点
     tv=tvdoc.createElement("tv")
     tv.setAttribute("generator-info-name","epg")
     tv.setAttribute("generator-info-url","1234567@qq.com")
     tvdoc.appendChild(tv)
-    ###写入节目列表
+
     for key,value in TVs.items():
-        ###channel 标签
+
         channel=tvdoc.createElement("channel")
         channel.setAttribute("id",key)
 
-        ###display-name
         display_name=tvdoc.createElement("display-name")
         display_name.setAttribute("lang","zh")
-        ###display-name 标签中的值
+
         display_name_var=tvdoc.createTextNode(TVname.get(TVs[key]).upper())
         display_name.appendChild(display_name_var)
-        ###添加到channel节点
+
         channel.appendChild(display_name)
-        ###添加到根标签
+
         tv.appendChild(channel)
 
     for key,value in TVs.items():
@@ -50,7 +46,7 @@ if __name__=="__main__":
             parsertime_nextday=parsertime_nextday.strftime("%Y%m%d")
 
             file=urllib.request.urlopen('http://api.cntv.cn/epg/getEpgInfoByChannelNew?c='+TVs[key]+'&serviceId=tvcctv&d='+parsertime+'&t=json')
-            ###json 格式
+
             parser = json.load(file,encoding="utf-8")
             parser = parser['data'][TVs[key]]['list']
             for ele in parser:
@@ -72,10 +68,8 @@ if __name__=="__main__":
                 programme.appendChild(title)
                 tv.appendChild(programme)
 
-
                 with open("epg.xml","w",encoding='utf-8') as f:
                     repl = lambda x: ">%s</" % x.group(1).strip() if len(x.group(1).strip()) != 0 else x.group(0)
-                    #pretty_str = re.sub(r'>\n\s*([^<]+)</', repl, tvdoc.toprettyxml(indent="\t",encoding="UTF-8"))
                     pretty_str = re.sub(r'>\n\s*([^<]+)</', repl, tvdoc.toprettyxml(indent=" "))
                     f.write(pretty_str)
 
