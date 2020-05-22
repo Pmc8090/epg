@@ -1,7 +1,7 @@
 name: Build EPG
 on:
   schedule:
-    - cron: 00 06 * * *
+    - cron: 10 06 * * *
       
 env:
   TZ: Asia/Shanghai
@@ -28,5 +28,5 @@ jobs:
         git config --global user.email "zhujife@gmail.com"
         git config --global user.name "sam white"
         git add .
-        git commit -m "Update epg"
+        git commit -m "Update epg" -a
         git push origin master
