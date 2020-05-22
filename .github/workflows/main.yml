@@ -5,10 +5,8 @@ name: CI
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
-  push:
-    branches: [master]
   schedule:
-    - cron: '18 14 * * *'
+    - cron: '58 00 * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -29,3 +27,8 @@ jobs:
     - name: Update epg
       run: |
         python epg.py
+        
+    - name: commit
+      run: |
+        git add epg.xml
+        git commit -m "update"
